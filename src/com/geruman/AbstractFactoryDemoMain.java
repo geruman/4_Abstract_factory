@@ -1,4 +1,8 @@
-package com.geruman.chocolates;
+package com.geruman;
+
+import com.geruman.chocolates.Chocolate;
+import com.geruman.chocolates.ChocolateriaAbstracta;
+import com.geruman.chocolates.Chocolaterias;
 
 public class AbstractFactoryDemoMain {
 	public static void main(String[] args) {
